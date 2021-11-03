@@ -1,0 +1,12 @@
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\bin\Debug\net5.0\TicketBookingSystem.Data.deps.json
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\bin\Debug\net5.0\TicketBookingSystem.Data.dll
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\bin\Debug\net5.0\ref\TicketBookingSystem.Data.dll
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\bin\Debug\net5.0\TicketBookingSystem.Data.pdb
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.csprojAssemblyReference.cache
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.AssemblyInfoInputs.cache
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.AssemblyInfo.cs
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.csproj.CoreCompileInputs.cache
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.dll
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\ref\TicketBookingSystem.Data.dll
+G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.pdb

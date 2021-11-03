@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="BusinessObjects\NewFolder1\NewFolder\" />
+    <Folder Include="BusinessObjects\NewFolder\NewFolder\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Contexts\" />
+    <Folder Include="Services\" />
+    <Folder Include="UnitOfWorks\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+[07/25/21 14:53:11 [Information]  Application Starting up
+[07/25/21 14:53:11 [Fatal]  Application start-up failed
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at TicketBookingSystem.Program.Main(String[] args) in G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem\Program.cs:line 25
+[07/25/21 20:02:29 [Information]  Application Starting up
+[07/25/21 20:02:29 [Fatal]  Application start-up failed
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at TicketBookingSystem.Program.Main(String[] args) in G:\DevskillDotNetCourse\aspnet-b5-personal\TicketBookingSystem\TicketBookingSystem\Program.cs:line 25
+[07/25/21 20:05:54 [Information]  Application Starting up
+[07/25/21 20:06:53 [Information]  Application Starting up
+[07/25/21 20:14:48 [Information]  Application Starting up
+[07/25/21 20:23:37 [Information]  Application Starting up
+[07/25/21 20:26:27 [Information]  Application Starting up
+[07/25/21 20:30:15 [Information]  Application Starting up
+[07/25/21 20:33:51 [Information]  Application Starting up
+[07/25/21 20:36:05 [Information]  Application Starting up
+[07/25/21 21:21:14 [Information]  Application Starting up

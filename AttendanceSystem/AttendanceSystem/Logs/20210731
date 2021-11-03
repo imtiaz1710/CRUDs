@@ -1,0 +1,4 @@
+[07/31/21 11:49:42 [Information]  Application Starting up
+[07/31/21 11:49:42 [Fatal]  Application start-up failed
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at AttendanceSystem.Program.Main(String[] args) in G:\DevskillDotNetCourse\aspnet-b5-personal\AttendanceSystem\AttendanceSystem\Program.cs:line 29

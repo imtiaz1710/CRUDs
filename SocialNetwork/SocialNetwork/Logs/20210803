@@ -1,0 +1,4 @@
+[08/03/21 20:21:02 [Information]  Application Starting up
+[08/03/21 20:21:02 [Fatal]  Application start-up failed
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at SocialNetwork.Program.Main(String[] args) in G:\DevskillDotNetCourse\aspnet-b5-personal\SocialNetwork\SocialNetwork\Program.cs:line 25
